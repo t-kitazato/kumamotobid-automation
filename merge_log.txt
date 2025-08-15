@@ -1,0 +1,273 @@
+INFO:root:\U0001f4cc スクリプト開始
+INFO:root:\U0001f4c4 ページ 1: 10 件の案件を検出
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(0)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(1)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(2)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(3)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(4)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(5)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(6)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(7)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(8)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(9)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\u27a1\ufe0f 次ページへ移動（jsNextPage 実行）
+INFO:root:\U0001f4c4 ページ 2: 7 件の案件を検出
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(10)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(11)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(12)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(13)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(14)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(15)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(16)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f4d8 最終ページに到達。処理終了
+INFO:root:\U0001f4e6 Excel保存完了: D:/project/exst\北里道路_入札候補案件.xlsx
+INFO:root:\U0001f6d1 ブラウザを終了しました
+INFO:root:追加: 2525-5070260191
+INFO:root:追加: 2525-5070260185
+INFO:root:追加: 2525-5070260205
+INFO:root:追加: 2525-5070260200
+INFO:root:追加: 2525-5070260204
+INFO:root:追加: 2525-5070260192
+INFO:root:追加: 2525-5070260187
+INFO:root:追加: 2525-5070260176
+INFO:root:追加: 2525-5070260167
+INFO:root:追加: 2525-5070260154
+INFO:root:追加: 2525-5070260151
+INFO:root:追加: 2525-5070260159
+INFO:root:追加: 2525-5070260149
+INFO:root:\U0001f4cc スクリプト開始
+INFO:root:\U0001f4c4 ページ 1: 10 件の案件を検出
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(0)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(1)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(2)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(3)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(4)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(5)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(6)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(7)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(8)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(9)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\u27a1\ufe0f 次ページへ移動（jsNextPage 実行）
+INFO:root:\U0001f4c4 ページ 2: 7 件の案件を検出
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(10)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(11)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(12)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(13)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(14)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(15)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(16)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f4d8 最終ページに到達。処理終了
+INFO:root:\U0001f4e6 Excel保存完了: D:/project/exst\北里道路_入札候補案件.xlsx
+INFO:root:\U0001f6d1 ブラウザを終了しました
+INFO:root:更新: 2525-5070260191
+INFO:root:更新: 2525-5070260185
+INFO:root:更新: 2525-5070260205
+INFO:root:更新: 2525-5070260200
+INFO:root:更新: 2525-5070260204
+INFO:root:更新: 2525-5070260192
+INFO:root:更新: 2525-5070260187
+INFO:root:更新: 2525-5070260176
+INFO:root:更新: 2525-5070260167
+INFO:root:更新: 2525-5070260154
+INFO:root:更新: 2525-5070260151
+INFO:root:更新: 2525-5070260159
+INFO:root:更新: 2525-5070260149
+INFO:root:\U0001f4cc スクリプト開始
+INFO:root:\U0001f4cc スクリプト開始
+INFO:root:\U0001f4c4 ページ 1: 10 件の案件を検出
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(0)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(1)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(2)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(3)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(4)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(5)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(6)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(7)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(8)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(9)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\u27a1\ufe0f 次ページへ移動（jsNextPage 実行）
+INFO:root:\U0001f4c4 ページ 2: 7 件の案件を検出
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(10)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(11)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(12)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(13)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(14)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(15)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(16)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f4d8 最終ページに到達。処理終了
+INFO:root:\U0001f4e6 Excel保存完了: D:/project/exst\北里道路_入札候補案件.xlsx
+INFO:root:\U0001f6d1 ブラウザを終了しました
+INFO:root:更新: 2525-5070260191
+INFO:root:更新: 2525-5070260185
+INFO:root:更新: 2525-5070260205
+INFO:root:更新: 2525-5070260200
+INFO:root:更新: 2525-5070260204
+INFO:root:更新: 2525-5070260192
+INFO:root:更新: 2525-5070260187
+INFO:root:更新: 2525-5070260176
+INFO:root:更新: 2525-5070260167
+INFO:root:更新: 2525-5070260154
+INFO:root:更新: 2525-5070260151
+INFO:root:更新: 2525-5070260159
+INFO:root:更新: 2525-5070260149
+INFO:root:\U0001f4cc スクリプト開始
+INFO:root:\U0001f4c4 ページ 1: 10 件の案件を検出
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(0)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(1)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(2)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(3)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(4)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(5)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(6)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(7)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(8)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(9)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\u27a1\ufe0f 次ページへ移動（jsNextPage 実行）
+INFO:root:\U0001f4c4 ページ 2: 7 件の案件を検出
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(10)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(11)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(12)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(13)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(14)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(15)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(16)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f4d8 最終ページに到達。処理終了
+INFO:root:\U0001f4e6 Excel保存完了: D:/project/exst\北里道路_入札候補案件.xlsx
+INFO:root:\U0001f6d1 ブラウザを終了しました
+INFO:root:更新: 2525-5070260191
+INFO:root:更新: 2525-5070260185
+INFO:root:更新: 2525-5070260205
+INFO:root:更新: 2525-5070260200
+INFO:root:更新: 2525-5070260204
+INFO:root:更新: 2525-5070260192
+INFO:root:更新: 2525-5070260187
+INFO:root:更新: 2525-5070260176
+INFO:root:更新: 2525-5070260167
+INFO:root:更新: 2525-5070260154
+INFO:root:更新: 2525-5070260151
+INFO:root:更新: 2525-5070260159
+INFO:root:更新: 2525-5070260149
+INFO:root:\U0001f4cc スクリプト開始
+INFO:root:\U0001f4cc スクリプト開始
+INFO:root:\U0001f4cc スクリプト開始
+INFO:root:\U0001f4c4 ページ 1: 10 件の案件を検出
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(0)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(1)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(2)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(3)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(4)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(5)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(6)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(7)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(8)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(9)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\u27a1\ufe0f 次ページへ移動（jsNextPage 実行）
+INFO:root:\U0001f4c4 ページ 2: 7 件の案件を検出
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(10)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(11)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(12)
+INFO:root:\u26d4 指名業者に『北里道路（株）』は含まれていません。スキップ
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(13)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(14)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(15)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f5b1\ufe0f jsBidInfo 実行: jsBidInfo(16)
+INFO:root:\u2705 指名業者に『北里道路（株）』が含まれています
+INFO:root:\U0001f4d8 最終ページに到達。処理終了
+INFO:root:\U0001f4e6 Excel保存完了: D:/project/exst\北里道路_入札候補案件.xlsx
+INFO:root:\U0001f6d1 ブラウザを終了しました
+INFO:root:更新: 2525-5070260191
+INFO:root:更新: 2525-5070260185
+INFO:root:更新: 2525-5070260205
+INFO:root:更新: 2525-5070260200
+INFO:root:更新: 2525-5070260204
+INFO:root:更新: 2525-5070260192
+INFO:root:更新: 2525-5070260187
+INFO:root:更新: 2525-5070260176
+INFO:root:更新: 2525-5070260167
+INFO:root:更新: 2525-5070260154
+INFO:root:更新: 2525-5070260151
+INFO:root:更新: 2525-5070260159
+INFO:root:更新: 2525-5070260149

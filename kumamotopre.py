@@ -66,9 +66,11 @@ def contains_target_vendor(soup, target="北里道路（株）"):
 # ✅ ブラウザ起動
 
 options = Options()
-options.add_argument("--headless")  # ヘッドレスモード
-options.add_argument("--disable-gpu")  # GPU無効（Windows環境向け）
-options.add_argument("--window-size=1920,1080")  # レイアウト崩れ防止
+headless_flag = os.environ.get("HEADLESS", "True")
+if headless_flag == "True":
+    options.add_argument("--headless")
+    options.add_argument("--disable-gpu")
+    options.add_argument("--window-size=1920,1080")
 driver = webdriver.Chrome(options=options)
 driver.get("https://ebid.kumamoto-idc.pref.kumamoto.jp/PPIAccepter/TopServlet")
 WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, '//img[contains(@src, "logo_kumamoto_pref.gif")]'))).click()

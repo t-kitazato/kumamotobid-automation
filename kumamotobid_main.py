@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import filedialog, messagebox
 from tkcalendar import DateEntry
 import subprocess
+import os
 
 def select_folder():
     folder_path = filedialog.askdirectory()
@@ -36,15 +37,18 @@ def run_process():
 
     try:
         # subprocess.run(["python", script_file, folder, excel_file, start_date, end_date], check=True)
-        subprocess.run([
-            "python",
-            script_file,
-            excel_file,         # 例: D:/work/kumamotobid/北里道路_入札候補案件.xlsx
-            # start_date = sys.argv[3]
-            # end_date = sys.argvv[4]
-            folder_var.get()     # 例: D:/work/kumamotobid
-        ],check=True)
-
+        subprocess.run(
+            [
+                "python",
+                script_file,
+                excel_file,
+                # start_date,
+                # end_date,
+                folder
+            ],
+            check=True,
+            env={**os.environ, "HEADLESS": str(headless_var.get())}
+        )
         messagebox.showinfo("実行", "スクリプトが正常に実行されました。")
     except subprocess.CalledProcessError as e:
         messagebox.showerror("エラー", f"スクリプト実行中にエラーが発生しました: {e}")
@@ -80,6 +84,12 @@ tk.Label(root, text="🐍 実行スクリプト:").grid(row=4, column=0, sticky=
 tk.Radiobutton(root, text="入札情報更新", variable=script_choice_var, value="kumamotopre.py").grid(row=4, column=1, sticky="w")
 tk.Radiobutton(root, text="仕様書ダウンロード", variable=script_choice_var, value="announcement_info.py").grid(row=4, column=2, sticky="w")
 
-tk.Button(root, text="▶️ 実行", command=run_process, bg="#4CAF50", fg="white").grid(row=5, column=1, pady=15)
+#　ブラウザ表示のON/OFF"
+headless_var = tk.BooleanVar(value=True)
+
+tk.Checkbutton(root, text="ブラウザ非表示（ヘッドレス）", variable=headless_var).grid(row=5, column=1, pady=5)
+
+
+tk.Button(root, text="▶️ 実行", command=run_process, bg="#4CAF50", fg="white").grid(row=6, column=1, pady=15)
 
 root.mainloop()
