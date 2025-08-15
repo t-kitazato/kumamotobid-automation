@@ -12,6 +12,7 @@
 ▶️ 実行ボタン	指定条件でPythonスクリプトを実行
 📦 必要な環境
 Python 3.9+
+https://www.python.org/
 
 以下のライブラリ（pip installでインストール可能）:
 
