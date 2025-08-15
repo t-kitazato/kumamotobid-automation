@@ -1,0 +1,844 @@
+<html><!--**********************************************
+* TITLE:        入札公告等情報一覧照会
+* VERSION:      1.00
+* DATE:         2004.10.31
+*				2006.12.15,仕様変更（SE0021）「受付終了」の表示対応 m.uchijima
+*               2008.01.21,KM0004[KSC008] 追加カスタマイズ-添付ファイル等名称変更 a.tamashima
+*               2008.08.12,熊本県事後審査対応-PPI検索項目追加(SE0195) a.tamashima
+*               2010.05.28,申請書提出期限表示対応(SE0238) a.kodama
+*               2011.04.15,熊本市懸案対応-設計図書文言変更(SE0262) t.taguchi
+***********************************************--><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+
+
+
+
+
+	<link rel="stylesheet" type="text/css" href="./jsp/css/Default.css">
+	<script language="JavaScript" src="./jsp/script/Common.js"></script>
+	<script language="JavaScript" src="./jsp/script/PJC402.js"></script>
+
+
+
+</head>
+
+
+
+<body class="NORMAL" marginwidth="5" marginheight="0">
+
+
+
+
+	
+
+
+	<form name="thisForm" method="post">
+		<table width="100%">
+			<tbody><tr>
+				<td>検索結果一覧：
+					<span id="ListAll">14</span>
+					件のうち
+					<span id="ListStart">1</span>
+					-
+					<span id="ListEnd">10</span>
+					件を表示
+				</td>
+
+
+
+
+
+	
+
+				<td align="right">
+					<input name="btnPrintPage" type="button" value="印刷" onclick="jsPrintPage();">
+					<input name="btnPrevPage" type="button" value="前頁" onclick="jsPrevPage();" disabled="">
+					<input name="btnNextPage" type="button" value="次頁" onclick="jsNextPage();">
+				</td>
+	
+
+			</tr>
+		</tbody></table>
+		<hr id="line">
+		<div id="headPanel">
+			<table id="head" border="1" cellspacing="0">
+			</table>
+		</div>
+		<div id="dataPanel">
+
+
+
+			<table id="data" border="1" cellspacing="0" width="100%">
+
+				<thead>
+					<tr>
+
+						<th rowspan="2">施行番号<br>電子入札案件番号</th>
+
+						<th rowspan="2">業種<br>種別</th>
+
+					
+
+
+					
+
+
+
+						<th rowspan="2">電子<br>／紙</th>
+
+						<th rowspan="2">工事・業務名</th>
+						<th rowspan="2">入札及び<br>契約方法</th>
+						<th rowspan="2">申請書<br>提出期限</th>
+
+						<th rowspan="2">公告日</th>
+
+
+					
+						<th colspan="3">※申請様式は、共通事項書に含む。</th>
+					
+
+					</tr>
+					<tr>
+
+					
+						<th>入札公告</th>
+					
+
+
+						<th>共通事項書</th>
+						<th>質問への回答</th>
+
+					</tr>
+				</thead>
+				<tbody id="tBody">
+				
+					<tr>
+						<td>2525-5070260213<br>0100250010020250101</td>
+						<td>土木</td>
+
+					
+
+
+					
+
+						<td align="center">
+						
+							<img src="./jsp/image/DenshiNyusatu.gif">
+						
+						</td>
+						
+
+
+						
+
+						
+						<td><span class="ATYPE" onclick="jsInfo(0)">北里宮原線活力創出基盤交付金（道路改築）工事　他合併</span></td>
+						
+						
+
+
+
+					
+						<td>通常型指名競争入札</td>
+					
+
+						<td align="center">
+
+
+
+
+
+					
+					
+							&nbsp;
+						
+
+						</td>
+
+						<td>
+							
+								2025/08/06
+							
+						</td>
+
+
+
+							
+
+
+						<td align="center">
+						
+						</td>
+						<td align="center">
+						
+						</td>
+						<td align="center">
+						
+						</td>
+						
+							
+
+						
+					</tr>
+				
+					<tr>
+						<td>2525-5070260198<br>0100250010020250102</td>
+						<td>土木</td>
+
+					
+
+
+					
+
+						<td align="center">
+						
+							<img src="./jsp/image/DenshiNyusatu.gif">
+						
+						</td>
+						
+
+
+						
+
+						
+						<td><span class="ATYPE" onclick="jsInfo(1)">黒川単県自然債河川改良（防草対策）工事</span></td>
+						
+						
+
+
+
+					
+						<td>通常型指名競争入札</td>
+					
+
+						<td align="center">
+
+
+
+
+
+					
+					
+							&nbsp;
+						
+
+						</td>
+
+						<td>
+							
+								2025/08/06
+							
+						</td>
+
+
+
+							
+
+
+						<td align="center">
+						
+						</td>
+						<td align="center">
+						
+						</td>
+						<td align="center">
+						
+						</td>
+						
+							
+
+						
+					</tr>
+				
+					<tr>
+						<td>2525-5070260130<br>0100250010020250099</td>
+						<td>土木</td>
+
+					
+
+
+					
+
+						<td align="center">
+						
+							<img src="./jsp/image/DenshiNyusatu.gif">
+						
+						</td>
+						
+
+
+						
+
+						
+						<td><span class="ATYPE" onclick="jsInfo(2)">大畑川単県自然債河川改良（緊急）（護岸工）工事</span></td>
+						
+						
+
+
+
+					
+						<td>一般競争入札(条件付)</td>
+					
+
+						<td align="center">
+
+
+
+
+
+					
+					
+
+
+							
+								2025/08/21 
+
+
+							
+
+						
+
+						</td>
+
+						<td>
+							
+								2025/08/06
+							
+						</td>
+
+
+
+							
+
+
+						<td align="center">
+						
+							<img src="./jsp/image/Appending.gif" class="ATYPE" onclick="jsDownload('2025000000001353');">
+						
+						</td>
+						<td align="center">
+						
+							<img src="./jsp/image/Appending.gif" class="ATYPE" onclick="jsDownload('2025000000001354');">
+						
+						</td>
+						<td align="center">
+						
+						</td>
+						
+							
+
+						
+					</tr>
+				
+					<tr>
+						<td>2525-5070260195<br>0100250010020250098</td>
+						<td>土木</td>
+
+					
+
+
+					
+
+						<td align="center">
+						
+							<img src="./jsp/image/DenshiNyusatu.gif">
+						
+						</td>
+						
+
+
+						
+
+						
+						<td><span class="ATYPE" onclick="jsInfo(3)">杉田上単県急傾斜地崩壊対策（緊急自然債）擁壁工その３工事</span></td>
+						
+						
+
+
+
+					
+						<td>一般競争入札(条件付)</td>
+					
+
+						<td align="center">
+
+
+
+
+
+					
+					
+
+
+							
+								2025/08/21 
+
+
+							
+
+						
+
+						</td>
+
+						<td>
+							
+								2025/08/06
+							
+						</td>
+
+
+
+							
+
+
+						<td align="center">
+						
+							<img src="./jsp/image/Appending.gif" class="ATYPE" onclick="jsDownload('2025000000001351');">
+						
+						</td>
+						<td align="center">
+						
+							<img src="./jsp/image/Appending.gif" class="ATYPE" onclick="jsDownload('2025000000001352');">
+						
+						</td>
+						<td align="center">
+						
+						</td>
+						
+							
+
+						
+					</tr>
+				
+					<tr>
+						<td>2525-5070260191<br>0100250010020250091</td>
+						<td>舗装</td>
+
+					
+
+
+					
+
+						<td align="center">
+						
+							<img src="./jsp/image/DenshiNyusatu.gif">
+						
+						</td>
+						
+
+
+						
+
+						
+						<td><span class="ATYPE" onclick="jsInfo(4)">内牧坂梨線単県旧道移管工事</span></td>
+						
+						
+
+
+
+					
+						<td>通常型指名競争入札</td>
+					
+
+						<td align="center">
+
+
+
+
+
+					
+					
+							&nbsp;
+						
+
+						</td>
+
+						<td>
+							
+								2025/07/30
+							
+						</td>
+
+
+
+							
+
+
+						<td align="center">
+						
+						</td>
+						<td align="center">
+						
+						</td>
+						<td align="center">
+						
+						</td>
+						
+							
+
+						
+					</tr>
+				
+					<tr>
+						<td>2525-5070260185<br>0100250010020250094</td>
+						<td>舗装</td>
+
+					
+
+
+					
+
+						<td align="center">
+						
+							<img src="./jsp/image/DenshiNyusatu.gif">
+						
+						</td>
+						
+
+
+						
+
+						
+						<td><span class="ATYPE" onclick="jsInfo(5)">国道４４２号防災安全交付金（自転車走行空間整備）その１工事　他合併</span></td>
+						
+						
+
+
+
+					
+						<td>通常型指名競争入札</td>
+					
+
+						<td align="center">
+
+
+
+
+
+					
+					
+							&nbsp;
+						
+
+						</td>
+
+						<td>
+							
+								2025/07/30
+							
+						</td>
+
+
+
+							
+
+
+						<td align="center">
+						
+						</td>
+						<td align="center">
+						
+						</td>
+						<td align="center">
+						
+						</td>
+						
+							
+
+						
+					</tr>
+				
+					<tr>
+						<td>2525-5070260205<br>0100250010020250088</td>
+						<td>舗装</td>
+
+					
+
+
+					
+
+						<td align="center">
+						
+							<img src="./jsp/image/DenshiNyusatu.gif">
+						
+						</td>
+						
+
+
+						
+
+						
+						<td><span class="ATYPE" onclick="jsInfo(6)">国道２６５号防災安全交付金（舗装補修）その２工事</span></td>
+						
+						
+
+
+
+					
+						<td>通常型指名競争入札</td>
+					
+
+						<td align="center">
+
+
+
+
+
+					
+					
+							&nbsp;
+						
+
+						</td>
+
+						<td>
+							
+								2025/07/30
+							
+						</td>
+
+
+
+							
+
+
+						<td align="center">
+						
+						</td>
+						<td align="center">
+						
+						</td>
+						<td align="center">
+						
+						</td>
+						
+							
+
+						
+					</tr>
+				
+					<tr>
+						<td>2525-5070260200<br>0100250010020250086</td>
+						<td>舗装</td>
+
+					
+
+
+					
+
+						<td align="center">
+						
+							<img src="./jsp/image/DenshiNyusatu.gif">
+						
+						</td>
+						
+
+
+						
+
+						
+						<td><span class="ATYPE" onclick="jsInfo(7)">国道２１２号防災安全交付金（舗装補修）その１工事　他合併</span></td>
+						
+						
+
+
+
+					
+						<td>通常型指名競争入札</td>
+					
+
+						<td align="center">
+
+
+
+
+
+					
+					
+							&nbsp;
+						
+
+						</td>
+
+						<td>
+							
+								2025/07/30
+							
+						</td>
+
+
+
+							
+
+
+						<td align="center">
+						
+						</td>
+						<td align="center">
+						
+						</td>
+						<td align="center">
+						
+						</td>
+						
+							
+
+						
+					</tr>
+				
+					<tr>
+						<td>2525-5070260204<br>0100250010020250087</td>
+						<td>舗装</td>
+
+					
+
+
+					
+
+						<td align="center">
+						
+							<img src="./jsp/image/DenshiNyusatu.gif">
+						
+						</td>
+						
+
+
+						
+
+						
+						<td><span class="ATYPE" onclick="jsInfo(8)">国道２１２号防災安全交付金（舗装補修）その２工事　他合併</span></td>
+						
+						
+
+
+
+					
+						<td>通常型指名競争入札</td>
+					
+
+						<td align="center">
+
+
+
+
+
+					
+					
+							&nbsp;
+						
+
+						</td>
+
+						<td>
+							
+								2025/07/30
+							
+						</td>
+
+
+
+							
+
+
+						<td align="center">
+						
+						</td>
+						<td align="center">
+						
+						</td>
+						<td align="center">
+						
+						</td>
+						
+							
+
+						
+					</tr>
+				
+					<tr>
+						<td>2525-5070260192<br>0100250010020250093</td>
+						<td>舗装</td>
+
+					
+
+
+					
+
+						<td align="center">
+						
+							<img src="./jsp/image/DenshiNyusatu.gif">
+						
+						</td>
+						
+
+
+						
+
+						
+						<td><span class="ATYPE" onclick="jsInfo(9)">国道２１２号防災安全交付金（自転車走行空間整備）その１工事　他合併</span></td>
+						
+						
+
+
+
+					
+						<td>通常型指名競争入札</td>
+					
+
+						<td align="center">
+
+
+
+
+
+					
+					
+							&nbsp;
+						
+
+						</td>
+
+						<td>
+							
+								2025/07/30
+							
+						</td>
+
+
+
+							
+
+
+						<td align="center">
+						
+						</td>
+						<td align="center">
+						
+						</td>
+						<td align="center">
+						
+						</td>
+						
+							
+
+						
+					</tr>
+				
+				</tbody>
+			</table>
+		</div>
+		<input name="ScreenID" type="hidden" value="PJC40200">
+		<input name="Process" type="hidden" value="PJC401">
+		<input name="Mode" type="hidden">
+		<input name="Error" type="hidden" value="false">
+		<input name="Message" type="hidden" value="">
+		<input name="RecordNo" type="hidden">
+
+		<input name="PrintTitle" type="hidden" value="入札公告等情報">
+
+	</form>
+	<iframe name="ifrmDownload" style="display:none;">
+	</iframe>
+
+
+</body></html>
